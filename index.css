@@ -1,0 +1,43 @@
+html, body {
+    margin: 0;
+    padding: 0;
+}
+
+.wrapper {
+    display: flex;
+    padding: 20px;
+    border: 1px solid green;
+    width: 400px;
+
+}
+
+.image_size {
+    width: 70px;
+    height: 70px;
+    background-size: cover;
+
+}
+
+.image_one {
+    background-image: url("John_11.jpg");  
+}
+
+.image_one {
+    background-image: url("John_11.jpg");  
+}
+
+.image_one {
+    background-image: url("John_11.jpg");  
+}
+
+.image_one {
+    background-image: url("John_11.jpg");  
+}
+
+.image_one {
+    background-image: url("John_11.jpg");  
+}
+
+
+
+
